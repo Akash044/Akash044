@@ -28,3 +28,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akash044&show_icons=true&locale=en" alt="akash044" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akash044&" alt="akash044" /></p>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harun181)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=harun181&show_icons=true)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=harun181)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=harun181) 
