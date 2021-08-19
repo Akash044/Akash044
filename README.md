@@ -30,7 +30,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akash044&" alt="akash044" /></p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harun181)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akash044)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=harun181&show_icons=true)  
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=harun181)  
