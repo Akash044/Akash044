@@ -28,4 +28,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akash044&show_icons=true&locale=en" alt="akash044" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akash044&" alt="akash044" /></p>
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=akash044)  
